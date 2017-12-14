@@ -36,6 +36,10 @@ In this project you will detect lane lines in images using Python and OpenCV. Op
 5. Canny Edge Detection
 6. Hough Tranform Line Detection
 
+## Skills
+Language: Python
+Frameworks/Libraries: Jupyter Notebook, OpenCV
+
 ## How to run
 
 ### Configuration
