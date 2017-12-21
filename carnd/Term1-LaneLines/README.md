@@ -42,13 +42,13 @@ Frameworks/Libraries: Jupyter Notebook, OpenCV
 
 ## How to run
 
-### Configuration
+#### Configuration
 
 You have to configure environment with Anaconda to run this program.
 
 Starter Kit: [Configure and Manage Your Environment with Anaconda](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/doc/configure_via_anaconda.md)
 
-### Open and Run
+#### Open and Run
 
 1. Download [repository](https://github.com/OliverPark/CarND-Term1-P1-LaneLines)
 
