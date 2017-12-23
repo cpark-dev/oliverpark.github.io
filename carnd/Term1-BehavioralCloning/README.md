@@ -10,13 +10,13 @@ We have provided a simulator where you can steer a car around a track for data c
 
 | Input               | Output       |
 | ------------------- | ------------ |
-| driving_log.csv^1)^ | steering^2)^ |
+| driving_log.csv<sup>1)</sup> | steering<sup>2)</sup> |
 
 **1) driving_log.csv**
 
 | center                                   | left                                 | right                                 | steering   | throttle  | brake | speed     |
 | ---------------------------------------- | ------------------------------------ | ------------------------------------- | ---------- | --------- | ----- | --------- |
-| IMG/center_2016_12_01_13_32_42_548.jpg^3)^ | IMG/left_2016_12_01_13_32_42_548.jpg | IMG/right_2016_12_01_13_32_42_548.jpg | 0          | 0         | 0     | 0.5394107 |
+| IMG/center_2016_12_01_13_32_42_548.jpg<sup>3)</sup> | IMG/left_2016_12_01_13_32_42_548.jpg | IMG/right_2016_12_01_13_32_42_548.jpg | 0          | 0         | 0     | 0.5394107 |
 | IMG/center_2016_12_01_13_32_42_648.jpg   | IMG/left_2016_12_01_13_32_42_648.jpg | IMG/right_2016_12_01_13_32_42_648.jpg | 0          | 0         | 0     | 0.5340073 |
 | IMG/center_2016_12_01_13_32_42_749.jpg   | IMG/left_2016_12_01_13_32_42_749.jpg | IMG/right_2016_12_01_13_32_42_749.jpg | 0          | 0         | 0     | 0.5285226 |
 | IMG/center_2016_12_01_13_32_42_851.jpg   | IMG/left_2016_12_01_13_32_42_851.jpg | IMG/right_2016_12_01_13_32_42_851.jpg | 0          | 0         | 0     | 0.5231478 |
