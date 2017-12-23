@@ -13,6 +13,7 @@ We have provided a simulator where you can steer a car around a track for data c
 | driving_log.csv^1)^ | steering^2)^ |
 
 **1) driving_log.csv**
+
 | center                                   | left                                 | right                                 | steering   | throttle  | brake | speed     |
 | ---------------------------------------- | ------------------------------------ | ------------------------------------- | ---------- | --------- | ----- | --------- |
 | IMG/center_2016_12_01_13_32_42_548.jpg^3)^ | IMG/left_2016_12_01_13_32_42_548.jpg | IMG/right_2016_12_01_13_32_42_548.jpg | 0          | 0         | 0     | 0.5394107 |
