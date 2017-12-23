@@ -6,7 +6,7 @@
 
 [Project: Traffic Sign Classifier](carnd/Term1-TrafficSignClassifier/README.md)
 
-Project: Behavioral Cloning
+[Project: Behavioral Cloning](carnd/Term1-BehavioralCloning/README.md)
 
 Project: Advanced Lane Finding
 
@@ -56,7 +56,9 @@ Project: Your first neural network
 Project: Image Classification
 ### Part3. Recurrent Neural Networks
 Project: Generate TV Scripts
+
 Project: Translation Project
+
 ### Part4. Generative Adversarial Networks
 Project: Generate Faces
 
