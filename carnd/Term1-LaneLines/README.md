@@ -75,3 +75,4 @@ Starter Kit: [Configure and Manage Your Environment with Anaconda](https://githu
 
    - Input files: *solidWhiteRight.mp4*, *solidYellowLeft.mp4*
    - Output files: *white.mp4*, *yellow.mp4*
+

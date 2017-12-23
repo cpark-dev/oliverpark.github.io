@@ -8,7 +8,7 @@
 
 [Project: Behavioral Cloning](carnd/Term1-BehavioralCloning/README.md)
 
-Project: Advanced Lane Finding
+[Project: Advanced Lane Finding](carnd/Term1-AdvancedLaneFinding/README.md)
 
 Project: Vehicle Detection and Tracking
 
