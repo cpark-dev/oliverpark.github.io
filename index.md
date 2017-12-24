@@ -10,7 +10,7 @@
 
 [Project: Advanced Lane Finding](carnd/Term1-AdvancedLaneFinding/README.md)
 
-Project: Vehicle Detection and Tracking
+[Project: Vehicle Detection and Tracking](carnd/Term1-VehicleDetection/README.md)
 
 ### Term2. Sensor Fusion, Localization, and Control
 Project: Extended Kalman Filters
