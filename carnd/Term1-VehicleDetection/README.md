@@ -22,7 +22,7 @@ In this project, your goal is to write a software pipeline to identify vehicles 
 
 3. Search for vehicles using sliding-window technique
    - Start from the left-middle to right-bottom of the image, slide by 70% of the window
-     ![Sliding Windows](sliding_windows_image.png)
+   ![Sliding Windows](sliding_windows_image.png)
 4. Create a heat map
    ![Heat Map](heat_map_image.png)
 5. Estimate a bouding box for vehicles
