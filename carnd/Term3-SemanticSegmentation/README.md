@@ -25,14 +25,21 @@ In this project, you'll label the pixels of a road in images using a Fully Convo
 4. Train neural network and print out the loss during training: **train_nn()**
 
 ## Terms
-1. Fully Convolutional Networks
+1. Fully Convolutional Networks(FCNs)
+
+   : While doing the convolution, they preserve the spatial information throughout the entire entire network. 
+
    - 1x1 Convolution
    - Transposed Convolutions
    - Skip Connections
+
 2. Semantic Segmentation
+
 3. IoU
+
 4. FCN-8
-5. Object Detection
+
+5. [Object Detection Lab](https://github.com/OliverPark/CarND-Object-Detection-Lab/blob/master/CarND-Object-Detection-Lab.ipynb)
 
 ## Skills
 Language: Python
