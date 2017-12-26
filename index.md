@@ -26,7 +26,7 @@ Project: Model Predictive Control
 ### Term3. Path Planning, Concentrations, and Systems
 Project: Path Planning Project
 
-Project: Semantic Segmentation
+[Project: Semantic Segmentation](carnd/Term3-SemanticSegmentation/README.md)
 
 Project: Functional Safety of a Lane Assistance System
 
