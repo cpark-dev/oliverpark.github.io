@@ -30,7 +30,7 @@ Project: Path Planning Project
 
 Project: Functional Safety of a Lane Assistance System
 
-Project: Programming a Real Self-Driving Car
+[Project: Programming a Real Self-Driving Car](carnd/Term3-ProgrammingARealSelf-DrivingCar/README.md)
 
 ## Artificial Intelligence Nanodegree
 ### Term1. Foundations of AI
