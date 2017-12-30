@@ -51,7 +51,7 @@ Project: DNN Speech Recognizer
 
 ## Deep Learning Foundation Nanodegree
 ### Part1. Neural Networks
-Project: Your first neural network
+[Project: Your first neural network](dlfnd/Part1-NeuralNetworks/README.md)
 ### Part2. Convolutkonal Neural Networks
 Project: Image Classification
 ### Part3. Recurrent Neural Networks
@@ -89,11 +89,19 @@ Project: Neighborhood Map
 
 # Stuffs
 ## Reading Books
-Grokking Deep Learning
-Deep Learning
-Artificial Intelligence
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) by Andrew Trask. Use our exclusive discount code **traskud17** for 40% off. This provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.
+
+
+- [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen. This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
+
+
+- [The Deep Learning Textbook](http://www.deeplearningbook.org/) from Ian Goodfellow, Yoshua Bengio, and Aaron Courville. This online book contains a lot of material and is the most rigorous of the three books suggested.
+- Artificial Intelligence
 
 ## Reading Blogs
+
+- From Andrej Karpathy:  [Yes, you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.vt3ax2kg9)
+- Also from Andrej Karpathy, [a lecture from Stanford's CS231n course](https://www.youtube.com/watch?v=59Hbtz7XgjM)
 
 ## References
 
