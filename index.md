@@ -43,7 +43,7 @@ Project: Implement a Planning Search
 Project: Build a Sign Language Recognizer
 
 ### Term2. Deep Learning and Applications
-[Project: Dog Breed Classifier](AIND/Term2-DogBreedClassifier/README.md)
+[Project: Dog Breed Classifier](aind/Term2-DogBreedClassifier/README.md)
 
 Project: Time Series Prediction and Text Generation
 
