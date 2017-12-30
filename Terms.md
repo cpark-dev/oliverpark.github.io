@@ -1,4 +1,4 @@
-# Support Vector Machine
+# Support Vector Machines
 
 ##### Deep Learning
 One of the most influential approaches to supervised learning is the support vector machine (Boser et al., 1992; Cortes and Vapnik, 1995). 
