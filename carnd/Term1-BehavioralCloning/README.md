@@ -8,8 +8,8 @@ In this project, you will use what you've learned about deep neural networks and
 
 We have provided a simulator where you can steer a car around a track for data collection. You'll use image data and steering angles to train a neural network and then use this model to drive the car autonomously around the track.
 
-| Input               | Output       |
-| ------------------- | ------------ |
+| Input                        | Output                |
+| ---------------------------- | --------------------- |
 | driving_log.csv<sup>1)</sup> | steering<sup>2)</sup> |
 
 **1) driving_log.csv**
@@ -128,7 +128,7 @@ Etc: Amazon Web Services
 
 1. This lab requires [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 
-2. Download [repository](git@github.com:OliverPark/CarND-Term1-P3-Behavior-Cloning.git)
+2. Download [repository](https://github.com/OliverPark/CarND-Term1-P3-Behavior-Cloning.git)
    ```Shell
    git clone git@github.com:OliverPark/CarND-Term1-P3-Behavior-Cloning.git
    ```
