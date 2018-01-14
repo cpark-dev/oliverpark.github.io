@@ -98,3 +98,7 @@ We frequently use the term "linear" when referring to affine functions throughto
 
 $\mathbb{R}$	The set of real numbers
 
+# 1x1 convolutions
+##### Coursera - deeplearning.ai
+So, you've now seen how a one by one convolution operation is actually doing a pretty non-trivial operation and it allows you to shrink the number of channels in your volumes or keep it the same or even increase it if you want.
+
