@@ -8,7 +8,7 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 
 ## Result
 |           Human Image            |          Dog Image           |
-| :------------------------------: | :--------------------------: |
+| ------------------------------ | -------------------------- |
 | ![Human Image](human_image1.png) | ![Dog Image](dog_image1.png) |
 | ![Human Image](human_image2.png) | ![Dog Image](dog_image2.png) |
 
